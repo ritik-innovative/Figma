@@ -1,18 +1,22 @@
 # Figma
-Figma Designs 2021
+Figma designs 2021
 
-Fitness App  
+Fitness app  
 
 ![Fitness Apps](https://user-images.githubusercontent.com/68694845/134776770-a221b8bb-a70b-46c1-b6f4-e7652a97ce89.jpg)
 
-Food Ordering App
+Food ordering app
 
 ![Food App](https://user-images.githubusercontent.com/68694845/134776998-15edcbac-b5c5-4912-b271-0839d9ddb9bc.jpg)
 
-Ticket(travel) Booking App
+Ticket(travel) booking app
 
 ![ticket booking app](https://user-images.githubusercontent.com/68694845/134777189-271d6d96-9d27-4da6-a1df-5b5be0fc77bf.jpg)
 
 Smartwatch 
 
 ![smartwatch](https://user-images.githubusercontent.com/68694845/135122797-80950382-960e-48a6-84d4-b85174cedfb2.jpg)
+
+Mockup design og ticket(travel) booking app
+
+![mockup design travel app](https://user-images.githubusercontent.com/68694845/135124601-85b2b134-8320-4701-a56e-bd6151825761.jpg)
