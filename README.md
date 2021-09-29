@@ -20,3 +20,7 @@ Smartwatch
 Mockup design og ticket(travel) booking app
 
 ![mockup design travel app](https://user-images.githubusercontent.com/68694845/135124601-85b2b134-8320-4701-a56e-bd6151825761.jpg)
+
+Music player app
+
+![player](https://user-images.githubusercontent.com/68694845/135235443-e758ee0f-6762-4b75-98ab-1fa91b50a3eb.jpg)
