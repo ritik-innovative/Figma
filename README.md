@@ -17,7 +17,7 @@ Smartwatch
 
 ![smartwatch](https://user-images.githubusercontent.com/68694845/135122797-80950382-960e-48a6-84d4-b85174cedfb2.jpg)
 
-Mockup design og ticket(travel) booking app
+Mockup design of ticket(travel) booking app
 
 ![mockup design travel app](https://user-images.githubusercontent.com/68694845/135124601-85b2b134-8320-4701-a56e-bd6151825761.jpg)
 
