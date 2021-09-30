@@ -28,3 +28,7 @@ Music player app interface
 Credit card check interface
 
 ![credit card check](https://user-images.githubusercontent.com/68694845/135441426-5797a559-dec5-48a4-851b-1291565a43fb.jpg)
+
+Hotel booking landing page
+
+![landing page](https://user-images.githubusercontent.com/68694845/135442028-ab9dfdc8-ddb8-4afd-8125-faac0745fcaf.jpg)
